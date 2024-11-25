@@ -1,2 +1,7 @@
 # Product-Recommender-System-Using-Hypergraph-Neural-Networks
-This is my master's thesis
+Improving the performance of recommender systems in the field of product purchase has been one of the important challenges of e-commerce in recent years. The correct recognition of the user's preference and the accurate recommendation of items that meet his needs will certainly lead to progress in the development of online shopping and selling of items. Since the meaning of each item is different for users and the purpose of buying that item changes over time, it is difficult to understand what the user's thinking is now and what kind of product they are looking for. In this work, an approach based on hypergraph neural networks is presented to create a powerful representation for items and users, which can be used to create a correct representation for the user's intent and finally, according to his dynamic intent, offer him/her the right product. The idea of this approach is to use the short-term correlation of items with each other to give them meaning, which is very similar to the logic of buying items by people in the real world. To evaluate the approach, the results of the implementation of the model presented in this article and similar models in recent years are compared on a dataset called Amazon review, and the improvement of the results of the evaluation metrics compared to those models is observed.
+![image](https://github.com/user-attachments/assets/18ca21b3-90bb-4d7d-809c-56ba680887c1)
+More details about the model architecture, dataset, and idea generation are available in a file called Report. This project is part of my master's thesis.
+
+
+
